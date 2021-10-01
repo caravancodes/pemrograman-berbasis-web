@@ -1,0 +1,1 @@
+(empty($tanggal))||(empty($jam))||(empty($pemateri))||(empty($materi))||(empty($jenis))

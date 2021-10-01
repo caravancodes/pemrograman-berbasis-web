@@ -1,0 +1,46 @@
+{
+    "pembelian": {
+        "data": [
+            {
+                "nama": "Daus",
+                "idBarang": "kr"
+            },
+            {
+                "nama": "",
+                "idBarang": "gl"
+            },
+            {
+                "nama": "",
+                "idBarang": "gl"
+            },
+            {
+                "nama": "",
+                "idBarang": "gl"
+            },
+            {
+                "nama": "",
+                "idBarang": "gl"
+            },
+            {
+                "nama": "",
+                "idBarang": "gl"
+            },
+            {
+                "nama": "",
+                "idBarang": "gl"
+            },
+            {
+                "nama": "Amir",
+                "idBarang": "kr"
+            },
+            {
+                "nama": "amirqweqwe",
+                "idBarang": "kr"
+            },
+            {
+                "nama": "ggd",
+                "idBarang": "kr"
+            }
+        ]
+    }
+}

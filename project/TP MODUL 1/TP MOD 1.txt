@@ -1,0 +1,6 @@
+1. Lakukan Instalasi XAMPP dengan memberikan Screenshotnya tuliskan deskripsi singkat langkah2nya.
+2. Jalankan Apache server dan Mysql dengan menggunakan XAMMP Control Panel (Sertakan Screenshot)
+3. Buat 1 folder aplikasi baru di xampp (htdocs xampp) yang sudah anda install, dengan folder NIM anda
+4. Lalu buat file php dengan format nama.php (ex: peppy.php) didalamnya yang berisikan identitas diri anda (HANYA boleh menggunakan PHP script)
+ sertakan hasil screenshot di browser anda beserta screenshot codingannya, hasilnya seperti contoh digambar TP MOD 1 Material.
+ Akses Format Link harus seperti contoh yang ada digambar (localhost/nim/nama.php).

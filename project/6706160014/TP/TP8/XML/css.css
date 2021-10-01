@@ -1,0 +1,11 @@
+    *{
+        font-family: arial;
+        font-size: 20px;
+    }
+    table tr td {
+        padding: 5px; 
+    }
+
+    table tr td input[type="text"], input[type="submit"] {
+        padding: 5px;
+    }

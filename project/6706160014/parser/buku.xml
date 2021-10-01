@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<daftarbuku>
+    <buku>
+        <judul>Pemrograman Java</judul>
+        <pengarang>Budi Raharjo</pengarang>
+        <penerbit>Infomedia</penerbit>
+    </buku>
+    <buku>
+        <judul>Pemrograman Web</judul>
+        <pengarang>Abdul Kadir</pengarang>
+        <penerbit>Media Informatika</penerbit>
+    </buku>
+</daftarbuku>

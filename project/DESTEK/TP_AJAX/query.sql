@@ -1,0 +1,11 @@
+INSERT INTO peminjaman VALUES('','A1','6706160014','Muhammad Faisal Amir','D3IF-40-02','2017-03-12','OP.jpg','One Piece');
+INSERT INTO peminjaman VALUES('','A2','6706160015','Hudio Hizari','D3IF-40-02','2017-03-12','FT.jpg','Fairy Tail');
+INSERT INTO peminjaman VALUES('','A3','6706160016','Saiful Apriyanto','D3IF-40-02','2017-03-12','NT.jpg','Naruto');
+INSERT INTO peminjaman VALUES('','A4','6706160017','Achmad Dzaky Abrori','D3IF-40-02','2017-03-12','DN.jpg','Doraemon');
+INSERT INTO peminjaman VALUES('','A5','6706160018','Bryan Rafsanzani','D3IF-40-02','2017-03-12','CN.jpg','Detektif Conan');
+INSERT INTO peminjaman VALUES('','A1','6706160019','Lintang Prayogo','D3IF-40-02','2017-03-12','OP.jpg','One Piece');
+INSERT INTO peminjaman VALUES('','A1','6706160020','Ridwan Junaedi','D3IF-40-02','2017-03-12','OP.jpg','One Piece');
+INSERT INTO peminjaman VALUES('','A2','6706160021','Pramana Batu Bara','D3IF-40-02','2017-03-12','FT.jpg','Fairy Tail');
+INSERT INTO peminjaman VALUES('','A3','6706160022','Rizky Eka Maulana','D3IF-40-02','2017-03-12','NT.jpg','Naruto');
+INSERT INTO peminjaman VALUES('','A5','6706160023','Andy Maulana Yusuf','D3IF-40-02','2017-03-12','CN.jpg','Detektif Conan');
+INSERT INTO peminjaman VALUES('','A4','6706160024','Rivkal Sukma Sanjaya','D3IF-40-02','2017-03-12','DN.jpg','Doraemon');

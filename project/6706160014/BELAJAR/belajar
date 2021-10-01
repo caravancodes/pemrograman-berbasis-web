@@ -1,0 +1,61 @@
+<?php
+include ('');
+
+$xml = new SimpleXMLElement ('<Amir/>');
+while () {
+    $data = $xml->addChild('data');
+    $data->addChild('amir',''.$row['amir'].'');
+}
+
+header('Contents-type: text/xml');
+print($xml->asXML());
+file_put_contents('amir.xml', $xml->saveXML());
+?>
+
+
+parse .....
+
+
+$xml = simplexml_load_file('amir.xml');
+foreach ($xml as $row) {
+    $row->amir
+}
+
+
+json
+
+
+
+$include('asdasd.php');
+
+$query ="";
+$sql = $conn->query($query);
+$amir = array();
+$data = array();
+$isi = array();
+
+while ($row = $query->fetch_array()) {
+    $isi[] = array(
+        'amir' => ''.$row['amir'].''
+    );
+}
+
+
+$data['data'] = $isi
+$amir['amir'] = $data
+$json = json_encode($amir, JSON_PRETTY_PRINT)
+file_put_contents('amir.json', $json);
+
+
+
+parse .....
+
+
+
+$file = file_get_contents('amir.json');
+$decode = json_decode($file);
+foreach ($decode->amir->data as $row)
+
+
+
+

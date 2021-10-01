@@ -1,0 +1,69 @@
+{
+    "datapinjam": {
+        "data": [
+            {
+                "idpeminjaman": "1",
+                "namapeminjam": "Arya Wiguna",
+                "notelp": "089666666",
+                "idruangan": "A101",
+                "tglpeminjaman": "2017-03-09"
+            },
+            {
+                "idpeminjaman": "2",
+                "namapeminjam": "Shervano",
+                "notelp": "0899189",
+                "idruangan": "A101",
+                "tglpeminjaman": "2017-03-01"
+            },
+            {
+                "idpeminjaman": "3",
+                "namapeminjam": "Arys Ganteng",
+                "notelp": "0888888",
+                "idruangan": "C101",
+                "tglpeminjaman": "2017-03-11"
+            },
+            {
+                "idpeminjaman": "4",
+                "namapeminjam": "Aa",
+                "notelp": "088888",
+                "idruangan": "A103",
+                "tglpeminjaman": "2017-03-15"
+            },
+            {
+                "idpeminjaman": "5",
+                "namapeminjam": "Si Ganteng",
+                "notelp": "08888888",
+                "idruangan": "D101",
+                "tglpeminjaman": "2017-03-15"
+            },
+            {
+                "idpeminjaman": "6",
+                "namapeminjam": "Si Agak Ganteng",
+                "notelp": "08888",
+                "idruangan": "F104",
+                "tglpeminjaman": "2017-03-15"
+            },
+            {
+                "idpeminjaman": "7",
+                "namapeminjam": "Arman Maucelana",
+                "notelp": "08092189",
+                "idruangan": "A101",
+                "tglpeminjaman": "2017-03-25"
+            },
+            {
+                "idpeminjaman": "8",
+                "namapeminjam": "sdfuiysh",
+                "notelp": "08092189",
+                "idruangan": "B101",
+                "tglpeminjaman": "2017-03-25"
+            },
+            {
+                "idpeminjaman": "9",
+                "namapeminjam": "",
+                "notelp": "0822",
+                "idruangan": "A101",
+                "tglpeminjaman": "2017-03-02"
+            }
+        ]
+    }
+}

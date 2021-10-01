@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>  
+<head>
+    <style>
+    ul {
+        list-style-type: none;
+        padding: 10px;
+        background-color: black;
+        overflow: hidden;
+        font-size: 50px;
+        color: white;
+    } 
+
+    li {
+        float: right;
+        padding: 10px;
+    }
+
+    ul.tombol {
+        display: none;
+    }
+    @media screen and (max-width: 991px) {
+        ul {
+            display: none;
+        }
+
+        ul.tombol {
+            display: block;
+            color: white;
+        }
+        li {
+            width: 100%;
+        }
+    }
+
+    </style>
+</head>
+<body>
+    <ul class="tombol">
+        <li>s</li>
+    </ul>
+    <ul>
+        <li>AMIR</li>
+        <li>DZAKY</li>
+        <li>HUDIO</li>
+        <li>IPUL</li>
+    </ul>
+</body>
+</html>

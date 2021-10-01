@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Contoh Ajax</h1>
+    <button type="button" onclick="bukaFileText()">Ubah</button>
+<br><br>
+<div id="demo">
+    ini content web
+</div>
+
+<script>
+    function bukaFileText() 
+    {
+        if (window.XMLHttpRequest) { 
+            // kode untuk modern browsers
+            var xhttp = new XMLHttpRequest();
+        } 
+        else {
+            // kode untuk old IE browsers
+            var xhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+
+        //var xhttp = new XMLHttpRequest();
+
+        xhttp.onreadystatechange = function()  //memanggil fungsi ketika terjadi perubahan 
+        {              
+            if (this.readyState == 4 && this.status == 200) 
+            {
+              document.getElementById("demo").innerHTML = this.responseText;
+            }
+        }
+        
+        xhttp.open("GET", "info_ajax.txt", true); //lihat di slide utk penjelasan parameternya
+        xhttp.send();
+    }
+</script>
+
+</body>
+</html>

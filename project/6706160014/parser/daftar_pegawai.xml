@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<daftarpegawai>
+  <pegawai>
+    <nama>Udin</nama>
+    <umur>34</umur>
+    <gaji>$10000</gaji>
+  </pegawai>
+  <pegawai>
+    <nama>Asep</nama>
+    <umur>20</umur>
+    <gaji>$2000</gaji>
+  </pegawai>
+</daftarpegawai>

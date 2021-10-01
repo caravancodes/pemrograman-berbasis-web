@@ -1,0 +1,62 @@
+{
+    "kakek": {
+        "bapak": [
+            {
+                "idpeminjaman": "1",
+                "sakdjfhsdjfh": "Arya Wiguna",
+                "notelp": "089666666",
+                "idruangan": "A101",
+                "tglpeminjaman": "2017-03-09"
+            },
+            {
+                "idpeminjaman": "2",
+                "sakdjfhsdjfh": "Shervano",
+                "notelp": "0899189",
+                "idruangan": "A101",
+                "tglpeminjaman": "2017-03-01"
+            },
+            {
+                "idpeminjaman": "3",
+                "sakdjfhsdjfh": "Arys Ganteng",
+                "notelp": "0888888",
+                "idruangan": "C101",
+                "tglpeminjaman": "2017-03-11"
+            },
+            {
+                "idpeminjaman": "4",
+                "sakdjfhsdjfh": "Aa",
+                "notelp": "088888",
+                "idruangan": "A103",
+                "tglpeminjaman": "2017-03-15"
+            },
+            {
+                "idpeminjaman": "5",
+                "sakdjfhsdjfh": "Si Ganteng",
+                "notelp": "08888888",
+                "idruangan": "D101",
+                "tglpeminjaman": "2017-03-15"
+            },
+            {
+                "idpeminjaman": "6",
+                "sakdjfhsdjfh": "Si Agak Ganteng",
+                "notelp": "08888",
+                "idruangan": "F104",
+                "tglpeminjaman": "2017-03-15"
+            },
+            {
+                "idpeminjaman": "7",
+                "sakdjfhsdjfh": "Arman Maucelana",
+                "notelp": "08092189",
+                "idruangan": "A101",
+                "tglpeminjaman": "2017-03-25"
+            },
+            {
+                "idpeminjaman": "8",
+                "sakdjfhsdjfh": "sdfuiysh",
+                "notelp": "08092189",
+                "idruangan": "B101",
+                "tglpeminjaman": "2017-03-25"
+            }
+        ]
+    }
+}
